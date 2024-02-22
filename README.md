@@ -23,5 +23,5 @@ This Python program provides a graphical representation of the A* pathfinding al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AStar-Pathfinding-Visualization.git
+   git clone https://github.com/BeleRohit/AStar-Pathfinding-Visualization.git
    cd AStar-Pathfinding-Visualization
